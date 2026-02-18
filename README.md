@@ -26,17 +26,10 @@ Interactive Power BI dashboard analyzing 609 colleges, 12,614 courses, and ~2M s
 
 ## Preview
 
-Main Dashboard  
-![Main Dashboard](Final_Dataset_1.jpg)
-
-Geographical Overview  
-![Geographical Overview](Final_Dataset_2.jpg)
-
-Management Overview  
-![Management Overview](Final_Dataset_3.jpg)
-
-Capacity Analysis  
-![Capacity Analysis](Final_Dataset_4.jpg)
+![Main Dashboard](dashboard_preview/Final_Dataset_1.jpg)
+![Geographical Overview](dashboard_preview/Final_Dataset_2.jpg)
+![Management Overview](dashboard_preview/Final_Dataset_3.jpg)
+![Capacity Analysis](dashboard_preview/Final_Dataset_4.jpg)
 
 ---
 
